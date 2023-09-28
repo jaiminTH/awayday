@@ -10,104 +10,110 @@
 /* Font Family */
 @font-face {
   font-family: "brandon_reg";
-  src: url(../fonts/brandon_reg.eot);
-  src: url(../fonts/brandon_reg.eot?#iefix) format("embedded-opentype"),
-    url(../fonts/brandon_reg.otf) format("otf"),
-    url(../fonts/brandon_reg.svg#brandon_reg) format("svg"),
-    url(../fonts/brandon_reg.ttf) format("truetype"),
-    url(../fonts/brandon_reg.woff) format("woff"),
-    url(../fonts/brandon_reg.woff2) format("woff2");
+  src: url(../../assets/fonts/brandon_reg.eot);
+  src: url(../../assets/fonts/brandon_reg.eot?#iefix)
+      format("embedded-opentype"),
+    url(../../assets/fonts/brandon_reg.otf) format("otf"),
+    url(../../assets/fonts/brandon_reg.svg#brandon_reg) format("svg"),
+    url(../../assets/fonts/brandon_reg.ttf) format("truetype"),
+    url(../../assets/fonts/brandon_reg.woff) format("woff"),
+    url(../../assets/fonts/brandon_reg.woff2) format("woff2");
 }
 
 @font-face {
   font-family: "brandon-grotesque-black";
-  src: url(../fonts/brandon-grotesque-black.eot);
-  src: url(../fonts/brandon-grotesque-black.eot?#iefix)
+  src: url(../../assets/fonts/brandon-grotesque-black.eot);
+  src: url(../../assets/fonts/brandon-grotesque-black.eot?#iefix)
       format("embedded-opentype"),
-    url(../fonts/brandon-grotesque-black.otf) format("otf"),
-    url(../fonts/brandon-grotesque-black.svg#brandon-grotesque-black)
+    url(../../assets/fonts/brandon-grotesque-black.otf) format("otf"),
+    url(../../assets/fonts/brandon-grotesque-black.svg#brandon-grotesque-black)
       format("svg"),
-    url(../fonts/brandon-grotesque-black.ttf) format("truetype"),
-    url(../fonts/brandon-grotesque-black.woff) format("woff"),
-    url(../fonts/brandon-grotesque-black.woff2) format("woff2");
+    url(../../assets/fonts/brandon-grotesque-black.ttf) format("truetype"),
+    url(../../assets/fonts/brandon-grotesque-black.woff) format("woff"),
+    url(../../assets/fonts/brandon-grotesque-black.woff2) format("woff2");
 }
 
 @font-face {
   font-family: "brandon-grotesque-bold-italic";
-  src: url(../fonts/brandon-grotesque-bold-italic.eot);
-  src: url(../fonts/brandon-grotesque-bold-italic.eot?#iefix)
+  src: url(../../assets/fonts/brandon-grotesque-bold-italic.eot);
+  src: url(../../assets/fonts/brandon-grotesque-bold-italic.eot?#iefix)
       format("embedded-opentype"),
-    url(../fonts/brandon-grotesque-bold-italic.otf) format("otf"),
-    url(../fonts/brandon-grotesque-bold-italic.ttf) format("truetype"),
-    url(../fonts/brandon-grotesque-bold-italic.woff) format("woff"),
-    url(../fonts/brandon-grotesque-bold-italic.svg#brandon-grotesque-bold-italic)
+    url(../../assets/fonts/brandon-grotesque-bold-italic.otf) format("otf"),
+    url(../../assets/fonts/brandon-grotesque-bold-italic.ttf) format("truetype"),
+    url(../../assets/fonts/brandon-grotesque-bold-italic.woff) format("woff"),
+    url(../../assets/fonts/brandon-grotesque-bold-italic.svg#brandon-grotesque-bold-italic)
       format("svg"),
-    url(../fonts/brandon-grotesque-bold-italic.woff2) format("woff2");
+    url(../../assets/fonts/brandon-grotesque-bold-italic.woff2) format("woff2");
 }
 
 @font-face {
   font-family: "brandon-grotesque-light-italic";
-  src: url(../fonts/brandon-grotesque-light-italic.eot);
-  src: url(../fonts/brandon-grotesque-light-italic.eot?#iefix)
+  src: url(../../assets/fonts/brandon-grotesque-light-italic.eot);
+  src: url(../../assets/fonts/brandon-grotesque-light-italic.eot?#iefix)
       format("embedded-opentype"),
-    url(../fonts/brandon-grotesque-light-italic.otf) format("otf"),
-    url(../fonts/brandon-grotesque-light-italic.svg#brandon-grotesque-light-italic)
+    url(../../assets/fonts/brandon-grotesque-light-italic.otf) format("otf"),
+    url(../../assets/fonts/brandon-grotesque-light-italic.svg#brandon-grotesque-light-italic)
       format("svg"),
-    url(../fonts/brandon-grotesque-light-italic.ttf) format("truetype"),
-    url(../fonts/brandon-grotesque-light-italic.woff) format("woff"),
-    url(../fonts/brandon-grotesque-light-italic.woff2) format("woff2");
+    url(../../assets/fonts/brandon-grotesque-light-italic.ttf)
+      format("truetype"),
+    url(../../assets/fonts/brandon-grotesque-light-italic.woff) format("woff"),
+    url(../../assets/fonts/brandon-grotesque-light-italic.woff2) format("woff2");
 }
 
 @font-face {
   font-family: "brandon-grotesque-light";
-  src: url(../fonts/brandon-grotesque-light.eot);
-  src: url(../fonts/brandon-grotesque-light.eot?#iefix)
+  src: url(../../assets/fonts/brandon-grotesque-light.eot);
+  src: url(../../assets/fonts/brandon-grotesque-light.eot?#iefix)
       format("embedded-opentype"),
-    url(../fonts/brandon-grotesque-light.otf) format("otf"),
-    url(../fonts/brandon-grotesque-light.svg#brandon-grotesque-light)
+    url(../../assets/fonts/brandon-grotesque-light.otf) format("otf"),
+    url(../../assets/fonts/brandon-grotesque-light.svg#brandon-grotesque-light)
       format("svg"),
-    url(../fonts/brandon-grotesque-light.ttf) format("truetype"),
-    url(../fonts/brandon-grotesque-light.woff) format("woff"),
-    url(../fonts/brandon-grotesque-light.woff2) format("woff2");
+    url(../../assets/fonts/brandon-grotesque-light.ttf) format("truetype"),
+    url(../../assets/fonts/brandon-grotesque-light.woff) format("woff"),
+    url(../../assets/fonts/brandon-grotesque-light.woff2) format("woff2");
 }
 
 @font-face {
   font-family: "brandon-grotesque-medium-italic";
-  src: url(../fonts/brandon-grotesque-medium-italic.eot);
-  src: url(../fonts/brandon-grotesque-medium-italic.eot?#iefix)
+  src: url(../../assets/fonts/brandon-grotesque-medium-italic.eot);
+  src: url(../../assets/fonts/brandon-grotesque-medium-italic.eot?#iefix)
       format("embedded-opentype"),
-    url(../fonts/brandon-grotesque-medium-italic.woff2) format("woff2"),
-    url(../fonts/brandon-grotesque-medium-italic.woff) format("woff"),
-    url(../fonts/brandon-grotesque-medium-italic.ttf) format("truetype"),
-    url(../fonts/brandon-grotesque-medium-italic.svg#brandon-grotesque-medium-italic)
+    url(../../assets/fonts/brandon-grotesque-medium-italic.woff2)
+      format("woff2"),
+    url(../../assets/fonts/brandon-grotesque-medium-italic.woff) format("woff"),
+    url(../../assets/fonts/brandon-grotesque-medium-italic.ttf)
+      format("truetype"),
+    url(../../assets/fonts/brandon-grotesque-medium-italic.svg#brandon-grotesque-medium-italic)
       format("svg"),
-    url(../fonts/brandon-grotesque-medium-italic.otf) format("otf");
+    url(../../assets/fonts/brandon-grotesque-medium-italic.otf) format("otf");
 }
 
 @font-face {
   font-family: "brandon-grotesque-regular-italic";
-  src: url(../fonts/brandon-grotesque-regular-italic.eot);
-  src: url(../fonts/brandon-grotesque-regular-italic.eot?#iefix)
+  src: url(../../assets/fonts/brandon-grotesque-regular-italic.eot);
+  src: url(../../assets/fonts/brandon-grotesque-regular-italic.eot?#iefix)
       format("embedded-opentype"),
-    url(../fonts/brandon-grotesque-regular-italic.svg#brandon-grotesque-regular-italic)
+    url(../../assets/fonts/brandon-grotesque-regular-italic.svg#brandon-grotesque-regular-italic)
       format("svg"),
-    url(../fonts/brandon-grotesque-regular-italic.otf) format("otf"),
-    url(../fonts/brandon-grotesque-regular-italic.ttf) format("truetype"),
-    url(../fonts/brandon-grotesque-regular-italic.woff) format("woff"),
-    url(../fonts/brandon-grotesque-regular-italic.woff2) format("woff2");
+    url(../../assets/fonts/brandon-grotesque-regular-italic.otf) format("otf"),
+    url(../../assets/fonts/brandon-grotesque-regular-italic.ttf)
+      format("truetype"),
+    url(../../assets/fonts/brandon-grotesque-regular-italic.woff) format("woff"),
+    url(../../assets/fonts/brandon-grotesque-regular-italic.woff2)
+      format("woff2");
 }
 
 @font-face {
   font-family: "brandon-grotesque-thin-italic";
-  src: url(../fonts/brandon-grotesque-thin-italic.eot);
-  src: url(../fonts/brandon-grotesque-thin-italic.eot?#iefix)
+  src: url(../../assets/fonts/brandon-grotesque-thin-italic.eot);
+  src: url(../../assets/fonts/brandon-grotesque-thin-italic.eot?#iefix)
       format("embedded-opentype"),
-    url(../fonts/brandon-grotesque-thin-italic.woff2) format("woff2"),
-    url(../fonts/brandon-grotesque-thin-italic.woff) format("woff"),
-    url(../fonts/brandon-grotesque-thin-italic.ttf) format("truetype"),
-    url(../fonts/brandon-grotesque-thin-italic.svg#brandon-grotesque-thin-italic)
+    url(../../assets/fonts/brandon-grotesque-thin-italic.woff2) format("woff2"),
+    url(../../assets/fonts/brandon-grotesque-thin-italic.woff) format("woff"),
+    url(../../assets/fonts/brandon-grotesque-thin-italic.ttf) format("truetype"),
+    url(../../assets/fonts/brandon-grotesque-thin-italic.svg#brandon-grotesque-thin-italic)
       format("svg"),
-    url(../fonts/brandon-grotesque-thin-italic.otf) format("otf");
+    url(../../assets/fonts/brandon-grotesque-thin-italic.otf) format("otf");
 }
 
 /* Common CSS */
@@ -176,6 +182,11 @@ body {
 }
 
 /* Custom button css */
+.btn-check:focus + .btn,
+.btn:focus {
+  box-shadow: none;
+}
+
 .btn-custom {
   padding: 13px 20px;
   background-color: var(--awayday-accent);
@@ -188,6 +199,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.btn-custom:hover {
+  opacity: 0.8;
+  background-color: var(--awayday-accent);
+  color: var(--white-color);
 }
 
 .btn-square {
@@ -210,6 +227,88 @@ body {
   min-height: 100vh;
   background: linear-gradient(90deg, #f78f20 0.34%, #f6ce3e 99.69%);
   width: 100%;
+  /* position: relative;
+  z-index: 9; */
+}
+
+.login-main {
+  position: relative;
+}
+
+.login-form-content {
+  position: relative;
+}
+
+/* Background Fade */
+.bg-fade-load {
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: var(--white-color) no-repeat center center fixed;
+  background-size: cover;
+  animation-name: fadeIn;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in-out;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  z-index: 99;
+}
+
+.fade-out {
+  opacity: 1;
+  background: var(--white-color) no-repeat center center fixed;
+  background-size: cover;
+  animation-name: fadeOut; /* Corrected name */
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  z-index: 99;
+}
+
+@keyframes fadeOut {
+  /* Corrected name */
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.fade-in {
+  opacity: 0;
+  background: var(--white-color) no-repeat center center fixed;
+  background-size: cover;
+  animation-name: fadeIn; /* Corrected name */
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in-out;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  z-index: 99;
+}
+
+@keyframes fadeIn {
+  /* Corrected name */
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.hidden {
+  display: none !important;
 }
 
 .login-form-content {
@@ -452,8 +551,6 @@ body {
   margin-bottom: 0;
 }
 
-
-
 .service-item .toggle-btn {
   font-size: 18px;
   font-weight: 400;
@@ -469,7 +566,6 @@ body {
   border-bottom-right-radius: 18px;
   position: relative;
   transition: all 0.3s ease-in-out;
-  
 }
 
 .service-item .toggle-btn.collapsed {
@@ -515,61 +611,301 @@ body {
 /* Accordion */
 
 .accordion-item {
-    border: 0;
-    background-color: transparent;
+  border: 0;
+  background-color: transparent;
 }
 
 .accordion-button:focus {
-    box-shadow: none;
+  box-shadow: none;
 }
 
 .accordion-item:last-of-type .accordion-button.collapsed {
-    border-bottom-left-radius: 18px;
-    border-bottom-right-radius: 18px;
+  border-bottom-left-radius: 18px;
+  border-bottom-right-radius: 18px;
 }
 
-
-
 .accordion-item:last-of-type {
-    border-bottom-left-radius: 18px;
-    border-bottom-right-radius: 18px;
+  border-bottom-left-radius: 18px;
+  border-bottom-right-radius: 18px;
 }
 
 .accordion-button::after {
-    display: none;
+  display: none;
 }
 
 .accordion-item:last-of-type .accordion-collapse {
-    border-bottom-left-radius: 18px;
-    border-bottom-right-radius: 18px;
+  border-bottom-left-radius: 18px;
+  border-bottom-right-radius: 18px;
 }
 
 .accordion-item:first-of-type .accordion-button {
-    border-top-right-radius: 0;
-    border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-top-left-radius: 0;
 }
 
 .accordion-body {
-    padding: 0;
+  padding: 0;
 }
 
-.sub-accordion > .accordion-item .accordion-button.collapsed{
-    border-bottom-left-radius: 0px;
-    border-bottom-right-radius: 0px;
+.sub-accordion > .accordion-item .accordion-button.collapsed {
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
 }
 
-.sub-accordion > .accordion-item  {
-    margin-bottom: 10px;
+.sub-accordion > .accordion-item {
+  margin-bottom: 10px;
 }
 
 .sub-accordion .accordion-body {
-    padding: 20px 25px;
+  padding: 20px 25px;
 }
 
-.sub-accordion .accordion-body p{
-    font-size: 20px;
-    font-weight: 400;
-    color: var(--black-color);
+.sub-accordion .accordion-body p {
+  font-size: 20px;
+  font-weight: 400;
+  color: var(--black-color);
+}
+
+/* Multi select dropdown */
+.multiple-select-dropdown .btn-group {
+  width: 330px !important;
+}
+.multiple-select-dropdown .dropdown-toggle {
+  width: 330px !important;
+  text-align: left;
+  border-radius: 10px;
+  background-color: #eeeeee;
+  font-size: 20px;
+  font-weight: 400;
+  color: #404040;
+  border: 0;
+}
+
+.multiple-select-dropdown .dropdown-toggle.show {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.multiple-select-dropdown .dropdown-toggle::after {
+  background-image: url(../img/icon-dropdown-arrow.svg);
+  background-repeat: no-repeat;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  border: 0;
+  transform: rotate(180deg);
+  transition: all 0.3s ease-in-out;
+}
+
+.multiple-select-dropdown .dropdown-toggle.show::after {
+  transform: rotate(0);
+  top: 17px;
+  transition: all 0.3s ease-in-out;
+}
+
+.dropdown-menu {
+  width: 330px;
+  min-width: 330px;
+  border: 0;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: #e7e7e7;
+}
+
+.multiselect-container > li:first-child {
+  display: none;
+}
+
+.multiselect-container > li:last-child > a > label {
+  border-bottom: 0;
+}
+
+.multiselect-container > li > a {
+  width: 100%;
+  display: inline-block;
+}
+
+.multiselect-container > li > a > label {
+  padding: 10px 10px 10px 20px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #cacaca;
+}
+
+.multiselect-container > li > a > label input {
+  height: 15px;
+  width: 15px;
+  border: 1px solid #bbbbbb;
+  background-clip: border-box;
+  appearance: none;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  transition: background-color 0.3s, box-shadow 0.3s;
+  margin-right: 11px;
+}
+
+.multiselect-container > li > a > label input:checked {
+  background-color: #f78f20;
+}
+/* YourComponent.css */
+.select {
+  height: 40px;
+  padding: 0 16px;
+  border-radius: 10px;
+  border: 0px solid #f3dcdc;
+  position: relative;
+  cursor: pointer;
+  background-color: #eeeeee;
+  font-size: 20px;
+  font-weight: 400;
+  color: #404040;
+  width: 330px;
+}
+
+.selected-option {
+  height: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.selected-option span {
+  font-size: 20px;
+}
+
+.selected-option i {
+  transform: rotate(180deg);
+  transition: all 0.3s ease-in-out;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.select.open .selected-option i {
+  transform: rotate(0);
+  transition: all 0.3s ease-in-out;
+}
+
+.options {
+  position: absolute;
+  top: 46px;
+  left: 0;
+  width: 330px;
+  max-height: 249px;
+  overflow-y: scroll;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: #e7e7e7;
+  border: 0px solid rgb(243, 220, 220);
+  z-index: 9;
+}
+
+.options ul {
+  margin-top: 0px;
+  padding-left: 0;
+  margin-bottom: 0px;
+}
+
+.options ul li:first-child {
+  display: none;
+}
+
+.options li {
+  font-size: 14px;
+  list-style: none;
+  line-height: 36px;
+  padding: 10px 10px 10px 50px;
+  cursor: pointer;
+  border-radius: 0px;
+  border-bottom: 1px solid #cacaca;
+  color: #404040;
+  transition: 0.3s linear;
+  font-size: 20px;
+  position: relative;
+}
+
+.options li:last-child {
+  border-bottom: 0px;
+}
+
+.options li::after {
+  content: "";
+  position: absolute;
+  left: 19px;
+  top: 20px;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  border: 1px solid #bbbbbb;
+  background-color: #d9d9d9;
+}
+
+.options li.active-option {
+  color: #404040;
+}
+
+.options li.active-option::before {
+  content: "";
+  position: absolute;
+  left: 20px;
+  top: 21px;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  background-color: #f78f20;
+  z-index: 9;
+}
+
+/* ------ */
+
+.content-type-two h4 {
+  font-size: 24px;
+  font-weight: 500;
+  color: var(--black-color);
+  margin-bottom: 20px;
+}
+
+.btn-group-icon {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-group-icon .btn-custom {
+  max-width: 250px;
+  margin: 0 5px;
+}
+
+.btn-group-icon .btn-custom .btn-icon {
+  padding-right: 7px;
+}
+
+.content-item {
+  margin: 25px -25px 0;
+  padding: 25px 80px;
+  border-top: 1px solid #cfcfcf;
+}
+
+.inner-content {
+  display: flex;
+  align-items: center;
+}
+
+.inner-content p {
+  max-width: 500px;
+}
+
+.inner-content ul {
+  padding-left: 40px;
+  width: calc(100% - 500px);
 }
 
 /* Team Section */
@@ -756,6 +1092,14 @@ body {
   .team-item-outer {
     width: calc(100% / 2);
   }
+  .inner-content p {
+    max-width: 350px;
+  }
+
+  .inner-content ul {
+    padding-left: 40px;
+    width: calc(100% - 350px);
+  }
 }
 
 /* // Small devices (landscape phones, less than 768px) */
@@ -847,5 +1191,29 @@ body {
   .team-item-outer {
     width: 100%;
     margin-bottom: 40px;
+  }
+
+  .btn-group-icon {
+    flex-wrap: wrap;
+    margin-top: 10px;
+  }
+  .btn-group-icon .btn-custom {
+    margin-top: 20px;
+  }
+
+  .content-item {
+    padding: 20px 25px;
+  }
+  .inner-content {
+    flex-wrap: wrap;
+  }
+  .inner-content p {
+    width: 100%;
+  }
+
+  .inner-content ul {
+    padding-left: 30px;
+    padding-top: 40px;
+    width: 100%;
   }
 }
